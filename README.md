@@ -10,7 +10,8 @@ Ce projet vous montre comment pusher un projet web maven vers docker hub puis l'
 ## Configuration du projet
 
 Vous devez ajouter le fichier settings.xml dans votre .m2 ou votre repos central local.
-Et voici le contnu du fichier: remplacer USERNAME_DOCKER_HUB par le username de votre compte docker hub et PASSWORD__DOCKER_HUB par votre mot de passe.
+Et voici le contnu du fichier: remplacer USERNAME_DOCKER_HUB par le username de votre compte docker hub et PASSWORD__DOCKER_HUB par votre mot de passe. 
+Si vous en avez pas créez un compte ici [https://hub.docker.com/]
 
 ```bash
 <settings xmlns="http://maven.apache.org/SETTINGS/1.1.0"
