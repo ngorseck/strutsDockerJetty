@@ -4,7 +4,7 @@
 ![Jetty](https://img.shields.io/badge/Ngor%20Seck-JettyWebServer-blue)
 # Documentation
 
-Ce projet vous montre comment pusher un projet web maven vers docker hub puis l'executer ave docker.
+Ce projet vous montre comment pusher un projet web maven vers docker hub puis l'executer avec docker.
 
 
 ## Configuration du projet
